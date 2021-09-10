@@ -1,0 +1,38 @@
+===========- sting template -==============
+* kita sudah tahu bahwa untuk menambahkan string dengan data lain, kita bisa menggunakan operator +(plus)
+* Namun pada kasus tertentu, penggunaan operator + (plus) sangat menyulitkan, apalagi jika dalam jumlah banyak
+* javaScript memiliki fitur yang bernama string template, dimana kita bisa mensubtitusi data dari luar string kedalam
+sting , seperti mengambil data variable, atau bahkan melakukan operasi matematika
+* untuk menggunakan string template, cara pembuatan stingnya harus menggunakan ` (backtick), bukan '(petik satu) atau " (petik dua)
+
+==============- multiline string -====================
+* string template juga bisa digunakan untuk membuat string multiline
+* kita cukup tambahkan enter di textnya
+
+==============- konversi string dan number -================
+* saat membuat aplikasi, kadang kita input dari pengguna selalu dalam bentuk string
+* sedangkan kita ingin mengelola datanya dalam bentuk number
+* maka sangat disarankan untuk melakukan konversi tipe data
+
+===========- melakukan konversi string dan  number -============
+
+fungsi                          keterangan
+parselnt(string)                mengkonversi dari string ke number (bilangan bulat)
+parseFloat(string)              mengkonversi dari string ke number (bilangan pecahan)
+number(string)                  mengkonversi dari string ke number (bilangan bulat atau pecahan)
+number.toString()               mengkonversi dari number ke string
+Number                          todak mengkonversi string apapu, data harus berupa number
+
+
+=======================- NaN -==========================
+* bagaimana jika ternyata data string yang dicoba konversi ke number bukanlah data yang valid 
+* jika data string yang kita coba lakukan konversi bukan lah data valid, maka hasil dari konversi
+tersebut adalah Nan (Not a Number)
+* Nan adalah number spesial yang menyebutkan bahwa ini bukanlah number
+* jika NaN dioperasikan dengan data number lainnya, maka hasilnya akan menjadi NaN lagi.
+
+
+======================- isNaN() function -=====================
+* kadang kita ingin mengecek apakah sebuah number itu Nan atau bukan
+* untuk melakukan pengecekan tersebut, kita bisa menggunakan function isNan(number)
+* hasilnya adalah berupa data boolean, true juka Nan, false jika bukan

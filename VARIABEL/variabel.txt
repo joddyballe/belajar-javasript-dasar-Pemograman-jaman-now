@@ -1,0 +1,9 @@
+belajar java scrip dasar.
+-------------VARIABEL--------------
+variabel (var,let,const)
+1. Var
+penggunaan var tidak lagi diggunakan sekarang karena pemakaian var sudah tidak di rekomendasikan lagi.
+2. Let
+penggunaan Let merupakan penggunaan variabel pengganti var, data yang dimasukan kedalam program bisa di ubah
+3. Const
+penggunaan const adalah penggunaan variabel data yang dimasukan kedalam program js data tersebut tidak bisa di ubah.

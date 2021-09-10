@@ -1,0 +1,31 @@
+============ Operator Logika ============
+
+Operator logika adalah Operator untuk dua buah data boolean
+hasil dari operator logika adalah boolean
+
+1. &&   = dam
+2. ||   = atau
+3. !    = kebalikan
+
+operator && (Harus menghasilkan dua true)
+nilai 1     operator    nilai 2     hasil
+true        &&          true        true
+true        &&          false       false
+false       &&          true        false
+false       &&          false       false
+
+operator || (Harus ada hasil true dari nilai 1 atau 2 maka hasilnya true, 
+dan kalau hasil keduanya false maka hasilnya false)
+nilai 1     operator    nilai 2     hasil
+true        ||          true        true
+true        ||          false       true
+false       ||          true        true
+false       ||          false       false
+
+operator !!(merupakan kebalikan dari data tersebut, hanya bisa digunakan pada
+data tunggal atau satu data saja)
+operator    nilai 1     hasil
+!           true        false
+!           false       true
+
+

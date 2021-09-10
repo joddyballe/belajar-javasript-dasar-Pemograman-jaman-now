@@ -1,0 +1,29 @@
+-------- Operator Matematika ---------
+
+jenis operator matematika
+1. operator aritmatika
+ penggunaan 
+a. +  = pertambahan
+b. -  = penggurangan
+c. *  = perkalian
+d. ** = exponensial(perpangkatan)
+e. /  = pembagian
+f. %  = sisa bagi
+
+2. operator augmented assignments
+cara penulisan singkat operasi terhadap diri sendiri
+a. += pertambahan
+b. -= penggurangan
+c. *= perkalian
+d. **= exponensial(perpangkatan)
+e. /= pembagian
+f. %= sisa bagi
+
+3. operator unary
+Operator yang digunakan meruapakan operator yang menggunakan operator satu data
+a. +	= menandakan nilai positif
+b. -	= menandakan nilai negatif
+c. ++	= increment, menaikkan 1 angka
+d. -- 	= decrement, menurunkan 1 angka
+
+4. dan lain-lain
