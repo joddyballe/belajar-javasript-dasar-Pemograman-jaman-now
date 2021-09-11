@@ -1,0 +1,23 @@
+===- Tipe data array -===
+
+* array adalah tipe data yang berisikan kumpulan data
+* array di javascript memiliki sifat dinamis, artinya datanya bisa bertambah dengan sendirinya saat
+kita memasukkan data ke dalam array
+
+===- cara kerja array -===
+*setiap data di array akan disimpan dalam posisi berurutan,dimana urutan pertama dimulai dari nomor 0
+* setiap kita menambahkan data ke array, otomatis data akan disimpan di urutan terakhir
+* urutan di array, kita sebut dengan index
+
+===- operasi di array -===
+operasi                    keterangan
+1. array.push(value)       menambahkan data ke array
+2. array.length            untuk mendapatkan panjang array
+3. array[index]            mendapatkan data di posisi index
+4. array[index] = value    mengubah data diposisi index
+5. delete array[index]     menghapus data di posisi index, namun index tidak bergeser 
+
+di ingat
+1. data di dalam array tidak ada batasannya harus data apa
+2. jadi kita bisa memasukkan data apapun ke dalam array
+3. bahkan kita juga bisa memasukkan array ke dalam array jika kita mau
