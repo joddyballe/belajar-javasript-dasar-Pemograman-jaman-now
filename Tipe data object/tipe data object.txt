@@ -1,0 +1,11 @@
+===- Associative array -===
+* dibahasa pemograman lain seperti PHP, kita bisa menggunakan index beruba tipe data selain number, misalnya string
+* fitur ini biasanya disebut associative array atau hash
+* di javaScript associative tidak didukung.
+* jika kita memaksa memasukkan data bukan number di index,array, maka javascript akan merubah tipe data array tersebut menjadi object,
+dan ini bisa berbahaya, karena beberapa operasi di array mungkin bisa berubah hasilnya.
+
+===- tipe data object -===
+* tipe data object adalah tipe data yang mirip dengan tipe data array
+* yang membedakan adalah index pada tipe data object bisa menggunakan string
+* index di object biasanya disebut attributes atau properties, bukan index

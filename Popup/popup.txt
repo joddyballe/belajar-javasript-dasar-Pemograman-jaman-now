@@ -1,0 +1,7 @@
+=== - Popup - ===
+1. Alert, Prompt dan confirm
+
+* Javascript memiliki fitur yang bernama alert, Prompt dan confirm
+* alert digunakan untuk memberi peringatan berupa Popup text di browser
+* Prompt digunakan untuk meminta input string dari penggunan browser dalam bentuk Popup input text
+* sedangkan confirm digunakan untuk meminta input boolean dari penggunan browser dalam bentuk popup input pilihan

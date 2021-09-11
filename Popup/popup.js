@@ -1,0 +1,1 @@
+alert("Joddy Semangat Belajarnya");

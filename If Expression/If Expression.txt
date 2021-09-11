@@ -1,0 +1,14 @@
+=== - If Expression - ===
+
+* dalam javascript, if adalah salah satu kata kunci yang digunakan untuk percabangan
+* percabangan artinya kita bisa mengeksekusi kode program tertentu ketika suatu kondisi terpenuhi
+* hampir di semua bahasa pemrograman mendukung if Expression
+
+=== - Else Expression - ===
+* blok if akan dieksekusi ketika kondisi if bernilai terpenuhi true 
+* kadang kita ingin melakukan eksekusi program tertentu jika kondisi if bernilai false
+* hal ini bisa dilakukan menggunakan else Expression
+
+=== - else if Expression - ===
+* kadang dalam if, kita butuh membuat beberapa kondisi
+* kasus seperti ini, di javascript kita bisa menggunakan else if Expression

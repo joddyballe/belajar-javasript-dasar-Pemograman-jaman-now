@@ -1,0 +1,6 @@
+=== - Undefined - ===
+* Undefined adalah sebuah kata kunci di javascript
+* Undefined adalah sebuah tipe data
+* sebuah variable yang belum ditambahkan nilai, maka artinya variable tersebut merupakan tipe Undefined
+* kadang untuk programmer javascript pemula Undefined ini memang agak sedikit membinggungkan
+* Undefined itu berbeda dengan null di bahasa pemograman lainnya
